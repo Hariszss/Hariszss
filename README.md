@@ -30,12 +30,6 @@ I work at the intersection of machine learning, NLP, and healthcare data — cur
 
 ---
 
-## 📊 GitHub Stats
-
-![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hariszss&show_icons=true&theme=default&hide_border=true)
-
----
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C.Zisis-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charalampos-zisis-8a3b40275/)
