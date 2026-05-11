@@ -27,6 +27,7 @@ I work at the intersection of machine learning, NLP, and healthcare data — cur
 |---|---|---|
 | [Gender Bias in Multilingual mBERT](https://github.com/Hariszss/gender-bias-multilingual-mBERT) | Probing gender bias across 5 languages using fill-mask templates, WinoBias validation, and mC4 corpus analysis | PyTorch · HuggingFace · Pandas |
 | [Diabetes Prediction ML](https://github.com/Hariszss/diabetes-prediction-ml) | Binary classification with LR, SVM, Random Forest — includes ROC curves, feature importance, and full EDA | Scikit-learn · Pandas · Seaborn |
+| [Hospital Readmission Prediction](https://github.com/Hariszss/hospital-readmission) | Predicting 30-day readmission in diabetic patients across 100k clinical encounters — Gradient Boosting, subgroup analysis, AUC-ROC evaluation | Scikit-learn · Pandas · Seaborn |
 
 ---
 
