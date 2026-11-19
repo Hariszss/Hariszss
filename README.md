@@ -56,7 +56,6 @@ A staged machine learning pipeline (LASSO, Random Forest, XGBoost) predicting su
 ### Other projects
 
 - **[Hospital Readmission Prediction](https://github.com/Hariszss/hospital-readmission)**: 30-day readmission risk in diabetic patients, gradient boosting + subgroup analysis
-- **[Diabetes Prediction ML](https://github.com/Hariszss/diabetes-prediction-ml)**: classification benchmark (logistic regression, SVM, random forest) with full evaluation metrics
 - **[Gender Bias in Multilingual mBERT](https://github.com/Hariszss/gender-bias-multilingual-mBERT)**: template-based probing and corpus analysis of bias across five languages
 
 ---
